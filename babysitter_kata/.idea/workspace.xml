@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8929b70-ef3c-495d-80cc-d6385cb6cce6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cxduOKdKMfvlHMx6PtXbIyMtr1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.Test in untitled">
+    <configuration name="Test in untitled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFamily" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.TestFamily" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFamily.testGetASpecificHourlyRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.TestFamily" />
+      <option name="METHOD_NAME" value="testGetASpecificHourlyRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test in untitled" />
+        <item itemvalue="JUnit.TestFamily" />
+        <item itemvalue="JUnit.TestFamily.testGetASpecificHourlyRate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8929b70-ef3c-495d-80cc-d6385cb6cce6" name="Default Changelist" comment="" />
+      <created>1591474399236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591474399236</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1592148910862">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592148910862" />
+    <state x="464" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591474540133">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="464" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1591474540133" />
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1592081410579">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592081410579" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1592352333405">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592312320981" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592352333405" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592311207481" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1592352333402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592312320976" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592352333402" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592311207476" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1592352333401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592312320974" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592352333401" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592311207475" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1592352333404">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592312320979" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592352333404" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592311207478" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1592310741895">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592310741895" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1592310741892">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592310741892" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1592310741891">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592310741891" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1592310741893">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592310741893" />
+    <state x="390" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1592079930098">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="390" y="284" key="com.intellij.ide.util.TipDialog/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592079930098" />
+    <state x="446" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591474638210">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="446" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1591474638210" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1592313473086">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592313473086" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BabySitterKata/Family.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
