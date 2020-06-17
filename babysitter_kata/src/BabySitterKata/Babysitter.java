@@ -2,6 +2,14 @@ package BabySitterKata;
 
 public class Babysitter {
 
+    String availableStartTime;
+    String availableEndTime;
+
+    public Babysitter(String availableStartTime, String availableEndTime) {
+        this.availableStartTime = availableStartTime;
+        this.availableEndTime = availableEndTime;
+    }
+
     public int calculateNightlyCharge(String startTime, String endTime, Family family) {
         int nightlyCharge = 0;
 
@@ -17,5 +25,13 @@ public class Babysitter {
             nightlyCharge += family.getHourlyRate(stringHour);
         }
         return nightlyCharge;
+    }
+
+    public String getAvailableStartTime() {
+        return availableStartTime;
+    }
+
+    public String getAvailableEndTime() {
+        return availableEndTime;
     }
 }

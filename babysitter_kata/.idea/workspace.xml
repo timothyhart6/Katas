@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8929b70-ef3c-495d-80cc-d6385cb6cce6" name="Default Changelist" comment="" />
+    <list default="true" id="e8929b70-ef3c-495d-80cc-d6385cb6cce6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BabySitterKata/Babysitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BabySitterKata/Babysitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BabySitterKata/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BabySitterKata/Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/TestBabysitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/TestBabysitter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1cxduOKdKMfvlHMx6PtXbIyMtr1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +36,8 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="JUnit.Test in untitled">
     <configuration name="Test in untitled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -38,6 +50,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="Test" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBabysitter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.TestBabysitter" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,6 +104,7 @@
       <list>
         <item itemvalue="JUnit.Test in untitled" />
         <item itemvalue="JUnit.TestFamily" />
+        <item itemvalue="JUnit.TestBabysitter" />
         <item itemvalue="JUnit.TestFamily.testGetASpecificHourlyRate" />
       </list>
     </recent_temporary>
@@ -103,32 +131,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="464" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1591474540133" />
-    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1592081410579">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1592399773130">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592399773130" />
     <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592081410579" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1592352333405">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1592400257103">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592312320981" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592400257103" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592352333405" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592311207481" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1592352333402">
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1592400257099">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592312320976" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592400257099" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592352333402" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592311207476" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1592352333401">
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1592400257097">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592312320974" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592400257097" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592352333401" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592311207475" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1592352333404">
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1592400257101">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592312320979" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592400257101" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592352333404" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/1440.-124.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592311207478" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1592310741895">
@@ -155,20 +184,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="446" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1591474638210" />
+    <state x="-9" y="-670" width="1039" height="902" key="dock-window-1" timestamp="1592399837304">
+      <screen x="-367" y="-1024" width="1280" height="1024" />
+    </state>
+    <state x="-367" y="-1024" width="1280" height="1024" key="dock-window-1/-367.-1001.1280.1001/0.0.1440.834@0.0.1440.834" timestamp="1592398632283" />
+    <state x="-9" y="-670" width="1039" height="902" key="dock-window-1/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592399837304" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1592313473086">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/-367.-1024.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1592313473086" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BabySitterKata/Family.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

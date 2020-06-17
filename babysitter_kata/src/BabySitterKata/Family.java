@@ -4,15 +4,7 @@ import java.util.HashMap;
 
 public class Family {
 
-   private HashMap<String, Integer> hourlyRates = new HashMap<String, Integer>();
-
-    public Integer getHourlyRate(String hour) {
-        return hourlyRates.get(hour);
-    }
-
-    public void setHourlyRate(String hour, Integer rate) {
-        hourlyRates.put(hour, rate);
-    }
+    private HashMap<String, Integer> hourlyRates = new HashMap<String, Integer>();
 
     public void setRateForARangeOfHours(String startTime, String endTime, Integer rate) {
         int startTimeAsInteger = Integer.parseInt(startTime.replaceAll("[\\D]", ""));
@@ -28,4 +20,13 @@ public class Family {
             setHourlyRate(stringHour, rate);
         }
     }
+
+    public Integer getHourlyRate(String hour) {
+        return hourlyRates.get(hour);
+    }
+
+    public void setHourlyRate(String hour, Integer rate) {
+        hourlyRates.put(hour, rate);
+    }
+
 }
